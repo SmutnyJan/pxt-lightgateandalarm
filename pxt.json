@@ -5,7 +5,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-light-gate-extension": "github:microbit-cz/pxt-light-gate-extension#569f999eabfb47ca42624bd81d20b1680ff1a263",
+        "pxt-alarm-extension": "github:microbit-cz/pxt-alarm-extension#ded56592fb7a080b4a5c8e05dc97da105167880c"
     },
     "files": [
         "README.md",
