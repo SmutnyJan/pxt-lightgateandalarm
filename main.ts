@@ -8,6 +8,3 @@ lightGate.onLightLevelDrop(function () {
     alarm.turnOnAlarmAndBroadcast()
 })
 radio.setGroup(5)
-basic.forever(function () {
-	
-})
